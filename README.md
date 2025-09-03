@@ -93,7 +93,4 @@ Upon running the application (`StudentManagementSystem.java`), a menu will displ
   - Input mismatch exceptions are handled to prompt the user for correct input types.
 
 
-  <a href="mailto:pavithd2020@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="pavithd2020@gmail.com" height="30" width="40" /></a>
-</p>
-
 
